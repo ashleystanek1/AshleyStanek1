@@ -1,4 +1,5 @@
 (www.linkedin.com/in/ashleystanek)
+[www.linkedin.com/in/ashleystanek](url)
 
 Hi there! I'm Ashley, a recent graduate with a Bachelor's degree in cyber security, currently working as an English teacher in South Korea. While teaching abroad, I've been able to expand my skill set and broaden my perspective, and I’m excited to transition back into the tech field when I return to the U.S.
 
